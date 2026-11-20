@@ -24,7 +24,10 @@
 2. Mikasa Ackerman
 3. Armin Arlert
 4. Levi Ackerman
-5. Erwin Smith
+
+## My Favorite Character
+Eren Yeager is my favorite character not because he's the main character, but because he continues to fight for his beliefs and goals.
+I do believe Eren is in the right as Marley were a bunch of hypocrites and did far worst if not as worst as the old Eldian Empire
 
 ## Series Details
 
@@ -33,7 +36,7 @@
 | Genre           | Action, Dark Fantasy, Drama   |
 | Original Author | Hajime Isayama                |
 | Studios         | Wit Studio, MAPPA             |
-| Seasons         | 4 (The Final Season in parts) |
+| Seasons         | 4  |
 
 ## Iconic Phrase
 
@@ -48,6 +51,4 @@ The Survey Corps' motto is `Shinzou wo Sasageyo!` (Devote your hearts!).
 
 ## Learn More
 
-Check out the [Attack on Titan Wiki](https://attackontitan.fandom.com/wiki/Attack_on_Titan_Wiki) for more details.
-
-~~Titans are friendly~~ Titans are definitely **not** friendly!
+Regarding the Titans and Humans, tell me what you see, what do you think is the enemy?
