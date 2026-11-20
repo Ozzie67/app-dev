@@ -1,6 +1,7 @@
 # My Favorite Series: Attack on Titan
 
-![Attack on Titan](https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Attack_on_Titan_season_1_Blu-ray_volume_1.jpg/220px-Attack_on_Titan_season_1_Blu-ray_volume_1.jpg)
+<img width="150" height="200" alt="wingsOfFreedom" src="https://github.com/user-attachments/assets/785dd8af-2a0c-434f-b8ab-7d5f3e6250bf" />
+
 
 ## Overview
 
